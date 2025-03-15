@@ -37,7 +37,7 @@ Nous avons réalisé un certain nombre de tâches pour travailler sur le projet 
 - [x] Tests
 <img src="src/coltExpress/tests.jpg" alt="tests" width="500">
 
-## 2. Choix architecturaux
+## Choix architecturaux
 ### Architecture MVC (Modèle-Vue-Contrôleur)
 Le projet est organisé sur la base de l'architecture MVC:
 - **Modèle**: représente la logique de base du jeu, y compris le train, les bandits et les actions.
