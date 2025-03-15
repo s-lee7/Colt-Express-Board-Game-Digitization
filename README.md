@@ -28,7 +28,7 @@ Le projet inclut les éléments suivants :
 Nous avons réalisé un certain nombre de tâches pour travailler sur le projet "Colt Express". Voici un aperçu du travail accompli :
 
 - [x] Complétion du diagramme de classe
-  <img src="colt-express.drawio.png" alt="roof" width="500">
+  <img src="colt-express-drawio.png" alt="roof" width="500">
 - [x] Complétion de la hiérarchie des classes
 - [x] Gestion des actions des bandits et marshall
 - [x] Organisation selon Modèle-Vue-Contrôleur (MVC)
